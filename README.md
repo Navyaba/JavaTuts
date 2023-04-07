@@ -1,2 +1,2 @@
 # JavaTutorials
-Java tutorial
+Java tutorial class
